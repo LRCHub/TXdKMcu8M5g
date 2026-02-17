@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "恋してる自分すら愛せるんだ",
+  "base_artist": "こはならむ",
+  "createdAt": "2026-02-17T18:00:08.062493Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋してる自分すら愛せるんだ",
+      "artist": "こはならむ",
+      "has_synced": false,
+      "path": "select/01_恋してる自分すら愛せるんだ_こはならむ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋してる自分すら愛せるんだ (Instrumental)",
+      "artist": "こはならむ",
+      "has_synced": false,
+      "path": "select/02_恋してる自分すら愛せるんだ_(Instrumental)_こはならむ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋してる自分すら愛せるんだ Acoustic Ver.",
+      "artist": "こはならむ",
+      "has_synced": true,
+      "path": "select/03_恋してる自分すら愛せるんだ_Acoustic_Ver._こはならむ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋してる自分すら愛せるんだ",
+      "artist": "こはならむ",
+      "has_synced": false,
+      "path": "select/04_恋してる自分すら愛せるんだ_こはならむ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋してる自分すら愛せるんだ",
+      "artist": "こはならむ",
+      "has_synced": false,
+      "path": "select/pl_01_恋してる自分すら愛せるんだ_こはならむ.txt"
+    }
+  ]
+}
